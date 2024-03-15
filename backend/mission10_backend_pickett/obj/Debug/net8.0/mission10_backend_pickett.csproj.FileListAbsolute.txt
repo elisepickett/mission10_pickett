@@ -125,3 +125,4 @@ C:\Users\elisepickett\source\repos\mission10_pickett\backend\mission10_backend_p
 C:\Users\elisepickett\source\repos\mission10_pickett\backend\mission10_backend_pickett\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\elisepickett\source\repos\mission10_pickett\backend\mission10_backend_pickett\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\elisepickett\source\repos\mission10_pickett\backend\mission10_backend_pickett\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\elisepickett\source\repos\mission10_pickett\backend\mission10_backend_pickett\obj\Debug\net8.0\mission10_backend_pickett.sourcelink.json

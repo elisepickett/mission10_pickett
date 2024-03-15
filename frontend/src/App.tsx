@@ -7,10 +7,10 @@ import BowlingList from './Bowling/BowlingList';
 function App() {
   return (
     <div className="App">
-        <Header title = 'Full stack practice stuff and yeah'/>;
+        <Header title = 'Oceanic Bowling League Players'/>
         <BowlingList />
     </div>
-  );
+  )
 }
 
 export default App;

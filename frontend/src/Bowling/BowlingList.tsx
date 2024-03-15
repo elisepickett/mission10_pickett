@@ -16,7 +16,7 @@ function BowlingList() {
     return (
       <>
         <div className="row">
-          <h4 className="text-center">Best Bowlers</h4>
+          <h4 className="text-center">Bowlers on either the Marlins or Sharks</h4>
         </div>
         <table className="table table-bordered">
           <thead>
